@@ -1,0 +1,1 @@
+[enter each account on a new line : MUST BE ON SAME SMTP SERVER]
